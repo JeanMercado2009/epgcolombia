@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0,Caracol TDT
+#EXTVLCOPT:network-caching=1000
+http://207.230.11.18:1982/play/a0ok
+#EXTINF:0,Cartoon Network (Panregional) HD
+#EXTINF:-1 tvg-id="CARTOON NETWORK HD" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="INFANTIL",Cartoon Network (Panregional) HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.244.29:8000/play/a012
+#EXTINF:0,Citytv
+#EXTVLCOPT:network-caching=1000
+http://190.61.46.92:8009/play/a096
+#EXTINF:0,RCN TDT
+#EXTVLCOPT:network-caching=1000
+http://207.230.11.18:1982/play/a0os
+#EXTINF:0,Win Sports
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a0ef
